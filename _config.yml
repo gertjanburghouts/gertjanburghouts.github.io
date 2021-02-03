@@ -23,7 +23,7 @@ github_username:  gertjanburghouts
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: Cayman
 plugins:
   - jekyll-feed
 
