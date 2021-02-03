@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Deep Learning with Few Labels, by Gertjan Burghouts
+title: Deep Learning research, by Gertjan Burghouts
 email: gertjan.burghouts@tno.nl
 description: Deep Learning research, applied to robotics and image/video understanding, with a focus on learning with few labels and leveraging prior knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  gertjanburghouts
 
 # Build settings
 markdown: kramdown
