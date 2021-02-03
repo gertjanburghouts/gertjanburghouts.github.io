@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gertjan
+title: Who am I
 permalink: /about/
 ---
 
