@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Gertjan Burghouts. I am a researcher in deep learning and computer vision. My passion is to create new algorithms that learn to analyze the visual world around us.
 
-<img style="padding: 5%; float: right;" src="../Gertjan.jpg" width="20%">
+<img style="padding: 2%; float: right;" src="../Gertjan.jpg" width="20%">
 
 I am part of a great team at TNO: the Intelligent Imaging group. Our research is applied to image & video understanding, and robotics. My personal ambition is to enable learning with few labels and to leverage prior knowledge in the learning process.
 
