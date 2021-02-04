@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Recent publications
+**Recent publications**
 
 Set Prediction without Imposing Structure as Conditional Density Estimation. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. International Conference on Learning Representations (ICLR), 2021.
 
@@ -16,7 +16,7 @@ Task-specific Novel Object Characterization. G.J. Burghouts. International Works
 
 Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx. ACM/IEEE Human-Robot Interaction (HRI), 2020.
 
-Patents
+**Patents**
 
 Detection of human actions from video data. G.J. Burghouts. US Patent 9,613,276.
 
@@ -24,7 +24,7 @@ Image pattern recognition system and method. G.J. Burghouts. US Patent 9,959,485
 
 Video access system and method based on action type detection. P. Hanckmann, K. Schutte, L. De Penning, G.J. Burghouts. US Patent 9,554,081.
 
-Other publications
+**Other publications**
 
 Recognizing stress using semantics and modulation of speech and gestures. I Lefter, GJ Burghouts, LJM Rothkrantz. IEEE Transactions on Affective Computing 7 (2), 162-175, 2016.
 
