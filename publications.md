@@ -24,7 +24,7 @@ Image pattern recognition system and method. G.J. Burghouts. US Patent 9,959,485
 
 Video access system and method based on action type detection. P. Hanckmann, K. Schutte, L. De Penning, G.J. Burghouts. US Patent 9,554,081.
 
-**Other publications**
+**Selected publications**
 
 Recognizing stress using semantics and modulation of speech and gestures. I Lefter, GJ Burghouts, LJM Rothkrantz. IEEE Transactions on Affective Computing 7 (2), 162-175, 2016.
 
