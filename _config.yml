@@ -17,7 +17,7 @@ title: Deep Learning for Vision
 email: gertjan.burghouts@tno.nl
 description: Deep Learning research, applied to robotics and image/video understanding, with a focus on learning with few labels and leveraging prior knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gertjanburghouts.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  gertjanburghouts
 
