@@ -1,0 +1,9 @@
+---
+layout: page
+title: Videos
+permalink: /videos/
+---
+
+**Finding victims in a house by a taxonomy-based hierarchical object detector**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTc6Xh1ck5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
