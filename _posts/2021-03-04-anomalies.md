@@ -14,7 +14,7 @@ Suppose that you have only seen images of cars. Cars are the inliers. Now you wa
 
 <!--more-->
 
-In the image above, in the lower-right shows the strongest inlier. Correct, because it is a very standard image of a car. 
+In the image above, the lower-right shows the strongest inlier. Correct, because it is a very standard image of a car. 
 The image in the upper-right shows the weakest inlier. Understandable, it is a very deviating image of a car, because there is a cow in front of it. 
 The image in the lower-left shows the weakest outlier. This is funny: there is a car behind it, so it looks a lot like the inliers. 
 The image in the upper-left shows the strongest outlier. That makes sense, because this image is indeed very different from a car: a bicycle covered in snow. 
