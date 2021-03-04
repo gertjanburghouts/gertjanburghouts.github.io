@@ -8,11 +8,12 @@ excerpt_separator: <!--more-->
 
 Spotting the statistical outliers is relevant for detection of novelties (e.g., a yet unknown object) and anomalies (e.g., a production error). 
 
+Suppose that you have only seen images of cars. Cars are the inliers. Now you want to know when objects are different from cars. These are the outliers. 
+
 <img src="https://gertjanburghouts.github.io/pictures/outliers.jpg">
 
 <!--more-->
 
-Suppose that you have only seen images of cars. Cars are the inliers. Now you want to know when objects are different from cars. These are the outliers. 
 In the image above, in the lower-right shows the strongest inlier. Correct, because it is a very standard image of a car. 
 The image in the upper-right shows the weakest inlier. Understandable, it is a very deviating image of a car, because there is a cow in front of it. 
 The image in the lower-left shows the weakest outlier. This is funny: there is a car behind it, so it looks a lot like the inliers. 
