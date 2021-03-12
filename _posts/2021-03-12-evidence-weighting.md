@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weighting evidence by thrustworthiness"
-date: 2021-02-16 13:00:00 -0000
+date: 2021-03-12 11:00:00 -0000
 categories: object parts robustness
 excerpt_separator: <!--more-->
 ---
