@@ -18,6 +18,8 @@ Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx
 
 **Patents**
 
+System and method of video content filtering. G.J. Burghouts, V. Westerwoudt, K. Schutte. US Patent 10,929,688.
+
 Detection of human actions from video data. G.J. Burghouts. US Patent 9,613,276.
 
 Image pattern recognition system and method. G.J. Burghouts. US Patent 9,959,485.
