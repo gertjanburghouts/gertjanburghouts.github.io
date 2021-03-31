@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learnable detection of moving objects"
+title: "Detecting small objects by their motion"
 date: 2021-03-31 23:00:00 -0000
 categories: moving object detection
 excerpt_separator: <!--more-->
