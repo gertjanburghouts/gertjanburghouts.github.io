@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 Transformers are becoming popular for vision tasks, including image classification, object detection and video classification. 
 In this <a href="https://gertjanburghouts.github.io/pictures/transformers4vision.pdf">presentation</a>, I explain Transformers and how they are applied to Vision tasks.
 
-<img src="https://gertjanburghouts.github.io/pictures/Transformers4Vision.jpg">
+<img src="https://gertjanburghouts.github.io/pictures/Transformers4Vision.jpeg">
 
 <!--more-->
 
