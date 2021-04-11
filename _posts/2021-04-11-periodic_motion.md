@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Periodic Motion in Video"
-date: 2021-02-16 13:00:00 -0000
+date: 2021-04-11 10:00:00 -0000
 categories: video periodicity activity recognition sports 
 excerpt_separator: <!--more-->
 ---
