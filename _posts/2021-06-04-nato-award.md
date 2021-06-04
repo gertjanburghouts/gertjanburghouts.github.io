@@ -8,4 +8,4 @@ excerpt_separator: <!--more-->
 
 For my contribution to a NATO research group (see post below), I received this beautiful award!
 
-<img src="https://gertjanburghouts.github.io/pictures/nato-award.jpg">
+<img src="https://gertjanburghouts.github.io/pictures/nato-award.jpeg">
