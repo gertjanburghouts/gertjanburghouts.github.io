@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Interactive Video Exploration
+title: "Interactive Video Exploration"
 date: 2021-06-10 13:00:00 -0000
 categories: video graphical interface t-SNE embeddings
 excerpt_separator: <!--more-->
 ---
-
-Video exploration of persons and activities
 
 Looking for particular concepts in a large set of videos or images is very relevant with today's amounts of data. 
 A correct way of visualizing by plotting similar instances close together, really depends on what you're looking for. 
