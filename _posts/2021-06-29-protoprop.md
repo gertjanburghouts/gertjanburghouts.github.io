@@ -14,7 +14,7 @@ We propose a method that uses a graph that captures knowledge about compositions
 and learn to propagate through the graph, such that unseen classes can be 
 recognized based on their composition of known attributes. 
 
-<img src="https://gertjanburghouts.github.io/pictures/protoprop.jpg">
+<img src="https://gertjanburghouts.github.io/pictures/ProtoProp.jpg">
 
 <!--more-->
 
