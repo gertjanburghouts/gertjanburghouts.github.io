@@ -10,7 +10,7 @@ Our research on robotics with SPOT was in the newspaper (Telegraaf).
 The goal is to provide SPOT with more autonomy via context awareness. 
 As part of this awareness, we look into visual question answering (find me the room with a boy and a girl) and objects with part attributes (find the girl with the green sweater).
 
-<img src="https://gertjanburghouts.github.io/pictures/telegraaf_crop.jpg" width=50%>
+<img src="https://gertjanburghouts.github.io/pictures/telegraaf_crop.jpg" width="50%">
 
 <!--more-->
 
