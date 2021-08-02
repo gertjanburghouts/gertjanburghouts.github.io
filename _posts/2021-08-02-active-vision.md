@@ -10,7 +10,7 @@ The cool thing about a robot is that it can act to improve its performance.
 For instance, by getting closer to the object, more details can be perceived, thereby resolving uncertainty. 
 This demo video shows that the robot successfully approaches and confirms the objects of interest, and quickly abandons the other irrelevant objects.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2F7tMYG50J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="437" height="248" src="https://www.youtube.com/embed/2F7tMYG50J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--more-->
 
