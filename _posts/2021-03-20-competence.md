@@ -10,7 +10,7 @@ AI agents such as robots are often not aware of their own competence under varyi
 Yet it is critically important to know whether the AI can be trusted for the current situation. 
 We propose a method that enables a robot to assess the competence of its AI model. 
 
-<iframe width="949" height="534" src="https://www.youtube.com/embed/QfCP04utC14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="475" height="265" src="https://www.youtube.com/embed/QfCP04utC14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--more-->
 
