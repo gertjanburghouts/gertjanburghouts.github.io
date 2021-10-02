@@ -8,7 +8,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. Burghouts, D. Bucur. <a href="https://arxiv.org/abs/2106.00305">https://arxiv.org/abs/2106.00305</a>, 2021.
+Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. Burghouts, D. Bucur. NeurIPS, 2021. <a href="https://arxiv.org/abs/2106.00305">https://arxiv.org/abs/2106.00305</a>.
 
 Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">https://arxiv.org/abs/2106.13919</a>, 2021.
 
