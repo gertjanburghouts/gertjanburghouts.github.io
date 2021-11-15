@@ -8,11 +8,15 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">https://arxiv.org/abs/2106.13919</a>, 2021.
+Coarse-to-Fine Visual Question Answering by Iterative, Conditional Refinement. G.J. Burghouts, W. Pereboom. International Conference on Image Analysis and Processing, 2021.
+
+Cluster Centers Provide Good First Labels for Object Detection. G.J. Burghouts, M. Kruithof, W. Pereboom, K. Schutte. International Conference on Image Analysis and Processing, 2021.
 
 Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. Burghouts, D. Bucur. NeurIPS, 2021. <a href="https://arxiv.org/abs/2106.00305">https://arxiv.org/abs/2106.00305</a>.
 
 Equidistant Hyperspherical Prototypes Improve Uncertainty Quantification. G.J. Burghouts, P. Mettes. NeurIPS, 2021, Workshop on Deployable Decision Making in Embodied Systems (DDM). 
+
+Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">https://arxiv.org/abs/2106.13919</a>, 2021.
 
 Set Prediction without Imposing Structure as Conditional Density Estimation. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. International Conference on Learning Representations (ICLR), 2021.
 
