@@ -30,13 +30,13 @@ Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx
 
 **Patents**
 
-System and method of video content filtering. G.J. Burghouts, V. Westerwoudt, K. Schutte. US Patent 10,929,688.
+System and method of video content filtering. G.J. Burghouts, V. Westerwoudt, K. Schutte. US Patent 10,929,688. Sequence Finder (Long-term Activity Recognition in Videos).
 
-Detection of human actions from video data. G.J. Burghouts. US Patent 9,613,276.
+Detection of human actions from video data. G.J. Burghouts. US Patent 9,613,276. Spatio-Temporal Saliency for Recognition of Human Actions in Videos.
 
-Image pattern recognition system and method. G.J. Burghouts. US Patent 9,959,485.
+Image pattern recognition system and method. G.J. Burghouts. US Patent 9,959,485. Soft-assignment Random Forest.
 
-Video access system and method based on action type detection. P. Hanckmann, K. Schutte, L. De Penning, G.J. Burghouts. US Patent 9,554,081.
+Video access system and method based on action type detection. P. Hanckmann, K. Schutte, L. De Penning, G.J. Burghouts. US Patent 9,554,081. Automatic Generation of Textual Action Descriptions.
 
 **Selected publications**
 
