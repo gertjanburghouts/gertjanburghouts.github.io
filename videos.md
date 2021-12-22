@@ -4,6 +4,16 @@ title: Videos
 permalink: /videos/
 ---
 
+**Explainability**
+
+<iframe width="500" height="184" src="https://www.youtube.com/embed/KQ271xKabv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Gap Filling**
+
+<iframe width="500" height="357" src="https://www.youtube.com/embed/4ov9gr4I6k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="500" height="357" src="https://www.youtube.com/embed/5L4Y2YeavdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Uncertainty Quantification**
 
 <iframe width="400" height="400" src="https://www.youtube.com/embed/0Y22d6GsZuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
