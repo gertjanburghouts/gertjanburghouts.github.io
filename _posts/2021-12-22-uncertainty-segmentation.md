@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uncertainty of Predictions"
-date: 2021-12-22 11:00:00 -0000
+date: 2021-12-22 10:00:00 -0000
 categories: hyperspherical equidistant prototypes
 excerpt_separator: <!--more-->
 ---
