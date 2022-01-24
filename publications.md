@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation. Y. Zhang, D.W. Zhang, S. Lacoste-Julien, G.J. Burghouts, C.G.M. Snoek. ICLR, 2022.
+
 Coarse-to-Fine Visual Question Answering by Iterative, Conditional Refinement. G.J. Burghouts, W. Pereboom. International Conference on Image Analysis and Processing, 2021.
 
 Cluster Centers Provide Good First Labels for Object Detection. G.J. Burghouts, M. Kruithof, W. Pereboom, K. Schutte. International Conference on Image Analysis and Processing, 2021.
