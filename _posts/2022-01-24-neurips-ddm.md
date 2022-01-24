@@ -6,7 +6,7 @@ categories: robot embedded artificial intelligence
 excerpt_separator: <!--more-->
 ---
 
-Yesterday I was at the NeurIPS Workshop on Deployable Decision Making in Embodied Systems, 
+In December, I was at the NeurIPS Workshop on Deployable Decision Making in Embodied Systems, 
 to present our paper about modeling uncertainty in deep learning. 
 
 This was our poster:
