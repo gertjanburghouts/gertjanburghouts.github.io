@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Set Prediction by an Energy-based Model"
-date: 2022-03-02 XX:00:00 -0000
+date: 2022-03-02 15:00:00 -0000
 categories: set prediction energy-based model
 excerpt_separator: <!--more-->
 ---
