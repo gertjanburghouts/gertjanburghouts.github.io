@@ -8,6 +8,10 @@ permalink: /videos/
 
 <iframe width="500" height="184" src="https://www.youtube.com/embed/KQ271xKabv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Set Prediction**
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/2iGmXmjaQus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Gap Filling**
 
 <iframe width="500" height="357" src="https://www.youtube.com/embed/4ov9gr4I6k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
