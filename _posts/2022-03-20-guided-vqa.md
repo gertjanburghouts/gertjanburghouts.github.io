@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Question Answering"
-date: 2021-03-20 9:00:00 -0000
+date: 2022-03-20 09:00:00 -0000
 categories: vision language
 excerpt_separator: <!--more-->
 ---
