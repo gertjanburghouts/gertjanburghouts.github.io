@@ -16,16 +16,17 @@ This technique allows us to search for objects for which we do not have an expli
 
 <img src="https://gertjanburghouts.github.io/pictures/guided-vqa.jpg" width="80%">
 
-(click on post to see more details)
-
-<!--more-->
-
 Our idea is to decompose the compound queries, and to add common-sense to the resolving of such queries.
 We do so by an iterative, conditional refinement and contradiction removal.
-The refinement enables a coarse-to-fine questioning (leveraging taxonomic knowledge), whereas contradictions in the questioning are removed by logic.
+The refinement enables a coarse-to-fine questioning (leveraging taxonomic knowledge), 
+whereas contradictions in the questioning are removed by logic.
 We coin our method ‘Guided-VQA’, because it incorporates guidance from external knowledge sources.
 
 <img src="https://gertjanburghouts.github.io/pictures/guided-vqa-results.jpg" width="80%">
+
+(click on post to see more details)
+
+<!--more-->
 
 We obtained good results on Visual Genome.
 On real-life images from different indoor family settings, our Guided-VQA achieved a mean average precision of 0.94 (VQA had 0.83).
