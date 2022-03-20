@@ -24,6 +24,8 @@ We coin our method ‘Guided-VQA’, because it incorporates guidance from exter
 
 <img src="https://gertjanburghouts.github.io/pictures/guided-vqa-results.jpg" width="80%">
 
+Published at International Conference on Image Analysis and Processing 2022.
+
 (click on post to see more details)
 
 <!--more-->
