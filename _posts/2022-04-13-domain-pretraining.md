@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Domain-specific Pretraining"
-date: 2021-02-16 13:00:00 -0000
+date: 2021-04-13 12:00:00 -0000
 categories: pretraining dataset domain transfer object detection
 excerpt_separator: <!--more-->
 ---
