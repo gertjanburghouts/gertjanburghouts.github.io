@@ -23,7 +23,8 @@ Previous approaches are based on sets and cannot treat car-1 and car-2 different
 
 <!-- <img src="https://gertjanburghouts.github.io/pictures/iclr22_push_apart.jpg"> -->
 
-We propose a method that can treat car-1 and car-2 differently, to output {car-1, car-2}.
+We propose a method that can treat car-1 and car-2 differently, to output {car-1, car-2}. 
+This essential ingredient is called multiset-equivariance. 
 Published at ICLR 2022 and presented on May 25 2022.
 
 <img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_ordering.jpg">
