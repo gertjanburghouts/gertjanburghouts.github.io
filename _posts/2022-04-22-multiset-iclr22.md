@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiset Prediction"
-date: 2022-04-22 16:00:00 -0000
+date: 2022-04-22 15:00:00 -0000
 categories: set prediction equivariance
 excerpt_separator: <!--more-->
 ---
