@@ -32,7 +32,7 @@ Published at ICLR 2022 and presented on May 25 2022.
 This proves to be very helpful, not only to separate equal elements, but also similar elements.
 This property boosts the performance for both set and multiset prediction.
 
-<img src="https://gertjanburghouts.github.io/pictures/iclr22_clevr.jpg">
+<!-- <img src="https://gertjanburghouts.github.io/pictures/iclr22_clevr.jpg"> -->
 
 Part of NWO Efficient Deep Learning, co-sponsored by TNO Appl.AI.
 
