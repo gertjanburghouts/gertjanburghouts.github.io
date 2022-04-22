@@ -24,13 +24,12 @@ For instance, if we have {‘car’, ‘car’} and we want to output the label 
 
 Previous approaches are based on sets and cannot treat car-1 and car-2 differently. 
 
-<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_ordering.jpg">
 
 We propose a method that can treat car-1 and car-2 differently, to output {‘car-1’, ‘car-2’}. 
 This proves to be very helpful, not only to separate equal elements, but also similar elements. 
 This property boosts the performance for both set and multiset prediction. 
 
-<img src="https://gertjanburghouts.github.io/pictures/iclr22_clevr.jpg">
+
 
 Published at ICLR '22 and presented on May 25 2022.
 Part of NWO Efficient Deep Learning, co-sponsored by TNO Appl.AI.
