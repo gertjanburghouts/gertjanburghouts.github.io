@@ -6,31 +6,32 @@ categories: set prediction equivariance
 excerpt_separator: <!--more-->
 ---
 
-Sets are everywhere: the objects in an image {‘car’, ‘person’, ‘traffic light’}, the atoms in a molecule, etc. 
+Sets are everywhere: the objects in an image {car, person, traffic light}, the atoms in a molecule, etc. 
 We research set prediction: how can a neural network output a set? 
 This is not trivial, because sets can differ in size. 
 The neural network needs to deal with variable-sized outputs. 
-See our ICLR `21 paper for an energy-based approach.
+See our ICLR 2021 paper for an energy-based approach.
 
 <img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_neural_network.jpg">
 
-In our ICLR `22 paper, we extend the method to deal with multisets. 
+In our ICLR 2022 paper, we extend the method to deal with multisets. 
 Contrary to sets, multisets can have multiple occurrences of a single element. 
-For instance, {‘car’, ‘car’, ‘person’, ‘person’, ‘person’, ‘traffic light’}. 
+For instance, {car, car, person, person, person, traffic light}. 
 In multisets, elements may be identical, which poses a problem if we would like to get a different output for them. 
-For instance, if we have {‘car’, ‘car’} and we want to output the label and ordering {‘car-1’, ‘car-2’}. 
+For instance, if we have {car, car} and we want to output the label and ordering {car-1, car-2}. 
+Previous approaches are based on sets and cannot treat car-1 and car-2 differently. 
 
 <img src="https://gertjanburghouts.github.io/pictures/iclr22_push_apart.jpg">
 
-Previous approaches are based on sets and cannot treat car-1 and car-2 differently. 
+We propose a method that can treat car-1 and car-2 differently, to output {car-1, car-2}. 
+Published at ICLR 2022 and presented on May 25 2022.
 
+<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_ordering.jpg">
 
-We propose a method that can treat car-1 and car-2 differently, to output {‘car-1’, ‘car-2’}. 
 This proves to be very helpful, not only to separate equal elements, but also similar elements. 
 This property boosts the performance for both set and multiset prediction. 
 
+<img src="https://gertjanburghouts.github.io/pictures/iclr22_clevr.jpg">
 
-
-Published at ICLR '22 and presented on May 25 2022.
 Part of NWO Efficient Deep Learning, co-sponsored by TNO Appl.AI.
 
