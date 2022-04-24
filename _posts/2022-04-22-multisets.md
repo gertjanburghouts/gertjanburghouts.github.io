@@ -30,7 +30,7 @@ This property boosts the performance for both set and multiset prediction.
 Performance is favorable over Transformer and Slot Attention.
 In the example below, you see the prediction of objects and their properties, and how our method (last column) improves by refining iteratively (from left to right). 
 
-<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_clevr.jpg" width="50%">
+<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_clevr.jpg" width="100%">
 
 Part of NWO Efficient Deep Learning, co-sponsored by TNO Appl.AI.
 
