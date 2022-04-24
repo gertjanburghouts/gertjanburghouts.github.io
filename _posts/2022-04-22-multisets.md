@@ -21,18 +21,20 @@ In multisets, elements may be identical, which poses a problem if we would like 
 For instance, if we have {car, car} and we want to output the label and ordering {car-1, car-2}.
 Previous approaches are based on sets and cannot treat car-1 and car-2 differently.
 
-<!-- <img src="https://gertjanburghouts.github.io/pictures/iclr22_push_apart.jpg"> -->
-
 We propose a method that can treat car-1 and car-2 differently, to output {car-1, car-2}. 
 This essential ingredient is called multiset-equivariance. 
 Published at ICLR 2022 and presented on May 25 2022.
 
-<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_ordering.jpg">
+<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_clevr.jpg">
 
 This proves to be very helpful, not only to separate equal elements, but also similar elements.
 This property boosts the performance for both set and multiset prediction.
 
-<!-- <img src="https://gertjanburghouts.github.io/pictures/iclr22_clevr.jpg"> -->
+<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_push_apart.jpg">
+
+Performance is favorable over Transformer and Slot Attention.
+
+<img src="https://gertjanburghouts.github.io/pictures/iclr22_poster_ordering.jpg">
 
 Part of NWO Efficient Deep Learning, co-sponsored by TNO Appl.AI.
 
