@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to select first labels for object detection?"
-date: 2022-05-10 10:00:00 -0000
+date: 2022-05-10 09:00:00 -0000
 categories: active learning object detection
 excerpt_separator: <!--more-->
 ---
