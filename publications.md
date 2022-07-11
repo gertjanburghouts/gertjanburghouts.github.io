@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Maximum Class Separation as Inductive Bias in One Matrix. Tejaswi Kasarla, Gertjan J. Burghouts, Max van Spengler, Elise van der Pol, Rita Cucchiara, Pascal Mettes. 2022. <a href="https://arxiv.org/abs/2206.08704">Paper</a>.
+
 Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation. Y. Zhang, D.W. Zhang, S. Lacoste-Julien, G.J. Burghouts, C.G.M. Snoek. ICLR, 2022. <a href="https://arxiv.org/abs/2111.12193">Paper</a>, <a href="https://github.com/davzha/multiset-equivariance">code</a>, <a href="https://www.youtube.com/watch?v=2iGmXmjaQus">video</a>.
 
 Coarse-to-Fine Visual Question Answering by Iterative, Conditional Refinement. G.J. Burghouts, W. Pereboom. International Conference on Image Analysis and Processing, 2021.
