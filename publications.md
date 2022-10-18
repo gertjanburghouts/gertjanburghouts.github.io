@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Self-Supervised Learning: Theory and Practice, 2022. <a href="https://arxiv.org/abs/2210.06462">Paper</a>
+
 Anomaly Detection in an Open World by a Neuro-symbolic Program on Zero-shot Symbols. Gertjan J. Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs. IROS workshop on Probabilistic Robotics in the Age of Deep Learning, 2022. <a href="https://openreview.net/forum?id=Bg3ZO3nXJuA">Paper</a>.
 
 Maximum Class Separation as Inductive Bias in One Matrix. Tejaswi Kasarla, Gertjan J. Burghouts, Max van Spengler, Elise van der Pol, Rita Cucchiara, Pascal Mettes. NeurIPS, 2022. <a href="https://arxiv.org/abs/2206.08704">Paper</a>.
