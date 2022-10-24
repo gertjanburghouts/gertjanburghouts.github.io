@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuro-Symbolic Programming for Anomaly Detection"
-date: 2022-10-21 09:00:00 -0000
+date: 2022-10-30 09:00:00 -0000
 categories: outlier anomaly relevancy
 excerpt_separator: <!--more-->
 ---
