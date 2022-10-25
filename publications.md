@@ -24,7 +24,7 @@ Cluster Centers Provide Good First Labels for Object Detection. G.J. Burghouts, 
 
 Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. Burghouts, D. Bucur. NeurIPS, 2021. <a href="https://arxiv.org/abs/2106.00305">Paper</a>.
 
-Equidistant Hyperspherical Prototypes Improve Uncertainty Quantification. G.J. Burghouts, P. Mettes. NeurIPS, 2021, Workshop on Deployable Decision Making in Embodied Systems (DDM). <a href="https://drive.google.com/file/d/1ikyuTJbV7sFXpZVLgQR2uDcpFzk574X5/view?usp=sharing">Link</a>.
+Equidistant Hyperspherical Prototypes Improve Uncertainty Quantification. G.J. Burghouts, P. Mettes. NeurIPS, 2021, Workshop on Deployable Decision Making in Embodied Systems (DDM). <a href="https://drive.google.com/file/d/1ikyuTJbV7sFXpZVLgQR2uDcpFzk574X5/view?usp=sharing">Paper</a>.
 
 Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">https://arxiv.org/abs/2106.13919</a>, 2021.
 
