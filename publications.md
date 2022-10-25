@@ -10,11 +10,11 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), 2022 (Oral). 
 
-Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Self-Supervised Learning: Theory and Practice, 2022. <a href="https://arxiv.org/abs/2210.06462">Paper</a>
+Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Self-Supervised Learning: Theory and Practice, 2022. <a href="https://arxiv.org/abs/2210.06462">Paper</a>.
 
 Anomaly Detection in an Open World by a Neuro-symbolic Program on Zero-shot Symbols. Gertjan J. Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs. IROS workshop on Probabilistic Robotics in the Age of Deep Learning, 2022. <a href="https://openreview.net/forum?id=Bg3ZO3nXJuA">Paper</a> (Oral).
 
-Maximum Class Separation as Inductive Bias in One Matrix. Tejaswi Kasarla, Gertjan J. Burghouts, Max van Spengler, Elise van der Pol, Rita Cucchiara, Pascal Mettes. NeurIPS, 2022. <a href="https://arxiv.org/abs/2206.08704">Paper</a>.
+Maximum Class Separation as Inductive Bias in One Matrix. Tejaswi Kasarla, Gertjan J. Burghouts, Max van Spengler, Elise van der Pol, Rita Cucchiara, Pascal Mettes. NeurIPS, 2022. <a href="https://arxiv.org/abs/2206.08704">Paper</a> (Oral).
 
 Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation. Y. Zhang, D.W. Zhang, S. Lacoste-Julien, G.J. Burghouts, C.G.M. Snoek. ICLR, 2022. <a href="https://arxiv.org/abs/2111.12193">Paper</a>, <a href="https://github.com/davzha/multiset-equivariance">code</a>, <a href="https://www.youtube.com/watch?v=2iGmXmjaQus">video</a>.
 
