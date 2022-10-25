@@ -34,9 +34,9 @@ ZERO - Detect objects without training examples by knowing their parts. G.J. Bur
 
 Spot What Matters: Learning Context Using Graph Convolutional Networks for Weakly-Supervised Action Detection. M. Tsiaousis, G.J. Burghouts, F. Hillerstrom, P. van der Putten. International Workshop on Deep Learning for Human-Centric Activity Understanding (DL-HAU), 2021. <a href="https://arxiv.org/abs/2107.13648">Paper</a>.
 
-Task-specific Novel Object Characterization. G.J. Burghouts. International Workshop on Cognitive Robotics (ICWR), 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-68799-1_33"></a>.
+Task-specific Novel Object Characterization. G.J. Burghouts. International Workshop on Cognitive Robotics (ICWR), 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-68799-1_33">Paper</a>.
 
-Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx. ACM/IEEE Human-Robot Interaction (HRI), 2020. <a href="https://arxiv.org/abs/2005.01546"></a>.
+Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx. ACM/IEEE Human-Robot Interaction (HRI), 2020. <a href="https://arxiv.org/abs/2005.01546">Paper</a>.
 
 **Patents**
 
