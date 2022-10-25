@@ -8,7 +8,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), 2022 (Oral). 
+Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), 2022 (Oral). <a href="">Paper</a>.
 
 Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Self-Supervised Learning: Theory and Practice, 2022. <a href="https://arxiv.org/abs/2210.06462">Paper</a>.
 
@@ -18,25 +18,25 @@ Maximum Class Separation as Inductive Bias in One Matrix. Tejaswi Kasarla, Gertj
 
 Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation. Y. Zhang, D.W. Zhang, S. Lacoste-Julien, G.J. Burghouts, C.G.M. Snoek. ICLR, 2022. <a href="https://arxiv.org/abs/2111.12193">Paper</a>, <a href="https://github.com/davzha/multiset-equivariance">code</a>, <a href="https://www.youtube.com/watch?v=2iGmXmjaQus">video</a>.
 
-Coarse-to-Fine Visual Question Answering by Iterative, Conditional Refinement. G.J. Burghouts, W. Pereboom. International Conference on Image Analysis and Processing, 2021.
+Coarse-to-Fine Visual Question Answering by Iterative, Conditional Refinement. G.J. Burghouts, W. Pereboom. International Conference on Image Analysis and Processing, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-031-06430-2_35">Paper</a>.
 
-Cluster Centers Provide Good First Labels for Object Detection. G.J. Burghouts, M. Kruithof, W. Pereboom, K. Schutte. International Conference on Image Analysis and Processing, 2021.
+Cluster Centers Provide Good First Labels for Object Detection. G.J. Burghouts, M. Kruithof, W. Pereboom, K. Schutte. International Conference on Image Analysis and Processing, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-031-06427-2_34">Paper</a>.
 
-Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. Burghouts, D. Bucur. NeurIPS, 2021. <a href="https://arxiv.org/abs/2106.00305">https://arxiv.org/abs/2106.00305</a>.
+Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. Burghouts, D. Bucur. NeurIPS, 2021. <a href="https://arxiv.org/abs/2106.00305">Paper</a>.
 
 Equidistant Hyperspherical Prototypes Improve Uncertainty Quantification. G.J. Burghouts, P. Mettes. NeurIPS, 2021, Workshop on Deployable Decision Making in Embodied Systems (DDM). <a href="https://drive.google.com/file/d/1ikyuTJbV7sFXpZVLgQR2uDcpFzk574X5/view?usp=sharing">Link</a>.
 
 Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">https://arxiv.org/abs/2106.13919</a>, 2021.
 
-Set Prediction without Imposing Structure as Conditional Density Estimation. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. International Conference on Learning Representations (ICLR), 2021.
+Set Prediction without Imposing Structure as Conditional Density Estimation. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. International Conference on Learning Representations (ICLR), 2021. <a href="https://arxiv.org/abs/2010.04109">Paper</a>.
 
-ZERO - Detect objects without training examples by knowing their parts. G.J. Burghouts, F. Hillerström. AAAI Combining Machine Learning and Knowledge Engineering (MAKE), 2021.
+ZERO - Detect objects without training examples by knowing their parts. G.J. Burghouts, F. Hillerström. AAAI Combining Machine Learning and Knowledge Engineering (MAKE), 2021. <a href="http://ceur-ws.org/Vol-2846/paper3.pdf">Paper</a>.
 
-Spot What Matters: Learning Context Using Graph Convolutional Networks for Weakly-Supervised Action Detection. M. Tsiaousis, G.J. Burghouts, F. Hillerstrom, P. van der Putten. International Workshop on Deep Learning for Human-Centric Activity Understanding (DL-HAU), 2021.
+Spot What Matters: Learning Context Using Graph Convolutional Networks for Weakly-Supervised Action Detection. M. Tsiaousis, G.J. Burghouts, F. Hillerstrom, P. van der Putten. International Workshop on Deep Learning for Human-Centric Activity Understanding (DL-HAU), 2021. <a href="https://arxiv.org/abs/2107.13648">Paper</a>.
 
-Task-specific Novel Object Characterization. G.J. Burghouts. International Workshop on Cognitive Robotics (ICWR), 2021.
+Task-specific Novel Object Characterization. G.J. Burghouts. International Workshop on Cognitive Robotics (ICWR), 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-68799-1_33"></a>.
 
-Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx. ACM/IEEE Human-Robot Interaction (HRI), 2020.
+Robotic Self-Assessment of Competence. G.J. Burghouts, A. Huizing, M.A. Neerincx. ACM/IEEE Human-Robot Interaction (HRI), 2020. <a href="https://arxiv.org/abs/2005.01546"></a>.
 
 **Patents**
 
