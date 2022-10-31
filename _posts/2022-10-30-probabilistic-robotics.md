@@ -20,4 +20,4 @@ such as 'tool' and 'floor', are measured from images by zero-shot language-visio
 These measurements are transformed into probabilistic facts, 
 which are fed to the neuro-symbolic program in order to be validated against the logic (bottom right). 
 
-Our paper is accepted at IROS Probabilistic Robotics 2022 (Kyoto).
+Our paper is accepted at IROS Probabilistic Robotics 2022 (Kyoto). 
