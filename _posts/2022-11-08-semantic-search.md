@@ -15,11 +15,9 @@ We have developed a method to cluster images and give each cluster a meaningful 
 For each image, we assign an initial label from a large set of candidate words.
 We do this by a language-vision model: CLIP from OpenAI.
 
+<img src="https://gertjanburghouts.github.io/pictures/cluster-naming.jpg">
+
 Next, we look for the word that best describes all images in the cluster.
 Possibly that could be a container name.
 We look into the coarse-to-fine hierarchy of all labels in the cluster, taken from Wordnet.
 In this way, we can assign Bird to a cluster containing images of Swans, Owls and Parrots.
-
-<img src="https://gertjanburghouts.github.io/pictures/cluster-naming.jpg">
-
-The paper was accepted at NeurIPS workshop on Human-Centered Artificial Intelligence.
