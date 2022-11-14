@@ -19,3 +19,4 @@ We reconstruct an object model (Faster R-CNN) for Kart by recombining the weight
 
 This makes it possible to localize related objects without having to label or learn anything.
 Work sponsored by DARPA Learning with Less Labels. 
+ 
