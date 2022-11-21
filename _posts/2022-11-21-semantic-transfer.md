@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Deep Learning Model without Labels using Semantics"
-date: 2022-11-21 09:00:00 -0000
+date: 2022-11-21 08:00:00 -0000
 categories: zero-shot semantic transfer
 excerpt_separator: <!--more-->
 ---
