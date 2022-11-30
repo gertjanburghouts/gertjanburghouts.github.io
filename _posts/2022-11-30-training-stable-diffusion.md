@@ -15,3 +15,4 @@ We were wondering whether such images may serve as a training set.
 Well, it may work, but only for simple cases such as the blue and red jeeps and cars below.
 The problem with more advanced cases is that the images may be weird or implausable.
 Of course, you could have a human in the loop, to remove such problematic images. 
+ 
