@@ -16,4 +16,4 @@ Still we can recover whether a collision is about to happen.
 
 <img src="https://gertjanburghouts.github.io/pictures/reasoning-missing.jpg">
 
-Please also see the demo in Videos.
+Please also see the demo in Videos. 
