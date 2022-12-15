@@ -5,7 +5,7 @@ date: 2022-12-14 09:00:00 -0000
 categories: image generation diffusion self supervision
 excerpt_separator: <!--more-->
 ---
-
+ 
 There is a revolution going on in the field of image generation.
 It was shown that such images get better when guiding them, e.g., with a textual description or semantic token from another classifier.
 We were curious whether we can guide them also with a self-supervised learning signal.
