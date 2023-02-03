@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embodied AI: handling domain gaps by language augmentations"
-date: 2023-02-03 09:00:00 -0000
+date: 2023-02-03 07:00:00 -0000
 categories: embodied artificial intelligence domain gaps simulator
 excerpt_separator: <!--more-->
 ---
