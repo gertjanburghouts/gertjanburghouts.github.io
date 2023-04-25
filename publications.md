@@ -8,11 +8,11 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. ICML 2023. / NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), and, NeurIPS workshop on Attention, 2022 (Oral). <a href="https://openreview.net/forum?id=27L6M45WI9">Paper</a>.
+
 Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. CVPR 2023. <a href="https://arxiv.org/abs/2210.06462">Paper</a>. NeurIPS workshop on Self-Supervised Learning: Theory and Practice, and, NeurIPS workshop on Score-Based Methods, 2022.
 
 Pruning Edges and Gradients to Learn Hypergraphs from Larger Sets. David W Zhang, Gertjan J. Burghouts, Cees G. M. Snoek. Learning on Graphs conference (LoG), 2022. <a href="https://openreview.net/forum?id=tbqtGejMJW">Paper</a>.
-
-Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), and, NeurIPS workshop on Attention, 2022 (Oral). <a href="https://openreview.net/forum?id=27L6M45WI9">Paper</a>.
 
 Anomaly Detection in an Open World by a Neuro-symbolic Program on Zero-shot Symbols. Gertjan J. Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs. IROS workshop on Probabilistic Robotics in the Age of Deep Learning, 2022. <a href="https://openreview.net/forum?id=Bg3ZO3nXJuA">Paper</a> (Oral) (Best paper award).
 
