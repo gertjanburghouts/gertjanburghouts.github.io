@@ -14,4 +14,4 @@ Our team is part of DARPA's program Learning with Less Labels. We are a partner 
 
 More details about my research can be found under Research.
 
-<img src="https://gertjanburghouts.github.io/pictures/intelligent_imaging.jpg" width="80%">
+<img src="https://gertjanburghouts.github.io/pictures/intelligent_imaging_2023.jpg" width="80%">
