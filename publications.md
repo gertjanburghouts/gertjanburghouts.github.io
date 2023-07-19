@@ -10,6 +10,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Efficient Transfer by Robust Label Selection and Learning with Pseudo-Labels. Wyke Huizinga, Maarten Kruithof, Gertjan Burghouts, Klamer Schutte. IEEE ICIP 2023.
 
+Aerial Image Segmentation with Minimal Annotation Effort Using Clustering of Pretrained Embeddings. Sabina B. van Rooij, Maarten C. Kruithof, Wyke Huizingaa, Gertjan J. Burghouts, Klamer Schutte. SPIE 2023.
+
 Neural Networks Are Graphs! Graph Neural Networks for Equivariant Processing of Neural Networks. David W Zhang, Miltiadis Kofinas, Yan Zhang, Yunlu Chen, Gertjan J. Burghouts, Cees G. M. Snoek. ICML TAG workshop 2023. <a href="https://openreview.net/forum?id=sCkLwG9wjy">Paper</a>.
 
 Improved Zero-Shot Object Localization using Contextualized Prompts and Objects in Context. Gertjan J. Burghouts, Wouter Meijer, Fieke Hillerström, Jelle van Mil, Michael van Bekkum, Marianne Schaaphok, Frank Ruis. ICRA Pretraining for Robotics 2023. <a href="https://openreview.net/pdf?id=2vHLRXkpcS">Paper</a>.
