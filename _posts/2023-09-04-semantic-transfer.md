@@ -6,7 +6,7 @@ categories: zero shot semantic transfer
 excerpt_separator: <!--more-->
 ---
 
-Sometimes for a new class there are no training samples yet.
+Sometimes for a new class there are no training samples yet. 
 This makes the standard supervised learning procedure impossible.
 To correctly classify a new class, prior knowledge about that class is required.
 
