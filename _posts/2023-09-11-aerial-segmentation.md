@@ -17,4 +17,4 @@ Labeling clusters is very easy and takes almost no time.
 <img src="https://gertjanburghouts.github.io/pictures/aerial-segmentation.jpg">
 
 Here you see a result of 50 such labels. 
-Not perfect, but already useful, while only requiring a few minutes. 
+Not perfect, but already useful, while only requiring a few minutes.  
