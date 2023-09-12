@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aerial Image Segmentation"
-date: 2023-09-11 07:00:00 -0000
+date: 2023-09-12 07:00:00 -0000
 categories: aerial images image segmentation
 excerpt_separator: <!--more-->
 ---
