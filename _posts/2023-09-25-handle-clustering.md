@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Open the Door?"
-date: 2023-10-02 07:00:00 -0000
+date: 2023-09-25 07:00:00 -0000
 categories: affordances reasoning
 excerpt_separator: <!--more-->
 ---
