@@ -8,7 +8,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>
+Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>. <a href="https://github.com/Dennishoftijzer/L-B_Augmentation">Code</a>.
 
 Efficient Transfer by Robust Label Selection and Learning with Pseudo-Labels. Wyke Huizinga, Maarten Kruithof, Gertjan Burghouts, Klamer Schutte. IEEE ICIP 2023.
 
