@@ -10,6 +10,10 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>. <a href="https://github.com/Dennishoftijzer/L-B_Augmentation">Code</a>.
 
+Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling. Leander Heuvel, Gertjan Burghouts, David Zhang, Gwenn Englebienne, Sabina van Rooij. NeurIPS workshop on Diffusion Models 2023. <a href="https://openreview.net/pdf?id=3R0lwIywZV">Paper</a>.
+
+Data Augmentations in Deep Weight Spaces. Aviv Shamsian, David Zhang, Aviv Navon, Yan Zhang, Miltiadis Kofinas, Idan Achituve, Riccardo Valperga, Gertjan Burghouts, Efstratios Gavves, Cees Snoek, Ethan Fetaya, Gal Chechik, Haggai Maron. NeurIPS workshop NeurReps 2023. <a href="https://openreview.net/pdf?id=jdT7PuqdSt">Paper</a>.
+
 Efficient Transfer by Robust Label Selection and Learning with Pseudo-Labels. Wyke Huizinga, Maarten Kruithof, Gertjan Burghouts, Klamer Schutte. IEEE ICIP 2023.
 
 Aerial Image Segmentation with Minimal Annotation Effort Using Clustering of Pretrained Embeddings. Sabina B. van Rooij, Maarten C. Kruithof, Wyke Huizingaa, Gertjan J. Burghouts, Klamer Schutte. SPIE 2023.
