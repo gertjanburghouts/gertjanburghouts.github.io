@@ -22,9 +22,13 @@ Neural Networks Are Graphs! Graph Neural Networks for Equivariant Processing of 
 
 Improved Zero-Shot Object Localization using Contextualized Prompts and Objects in Context. Gertjan J. Burghouts, Wouter Meijer, Fieke Hillerström, Jelle van Mil, Michael van Bekkum, Marianne Schaaphok, Frank Ruis. ICRA Pretraining for Robotics 2023. <a href="https://openreview.net/pdf?id=2vHLRXkpcS">Paper</a>.
 
-Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. ICML 2023. / NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), and, NeurIPS workshop on Attention, 2022 (Oral). <a href="https://openreview.net/forum?id=27L6M45WI9">Paper</a>.
+Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. ICML 2023. 
 
-Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. CVPR 2023. <a href="https://arxiv.org/abs/2210.06462">Paper</a>. NeurIPS workshop on Self-Supervised Learning: Theory and Practice, and, NeurIPS workshop on Score-Based Methods, 2022.
+Also appeared at: NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), and, NeurIPS workshop on Attention, 2023 (Oral). <a href="https://openreview.net/forum?id=27L6M45WI9">Paper</a>.
+
+Self-guided Diffusion Models. Vincent Tao Hu, David W. Zhang, Yuki M. Asano, Gertjan J. Burghouts, Cees G. M. Snoek. CVPR 2023. <a href="https://arxiv.org/abs/2210.06462">Paper</a>. 
+
+Also appeared at: NeurIPS workshop on Self-Supervised Learning: Theory and Practice, and, NeurIPS workshop on Score-Based Methods, 2022.
 
 Pruning Edges and Gradients to Learn Hypergraphs from Larger Sets. David W Zhang, Gertjan J. Burghouts, Cees G. M. Snoek. Learning on Graphs conference (LoG), 2022. <a href="https://openreview.net/forum?id=tbqtGejMJW">Paper</a>.
 
