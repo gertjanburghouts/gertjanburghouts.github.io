@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Synthesizing Classifiers from Prior Knowledge. Gertjan Burghouts, Klamer Schutte, Maarten Kruithof, Wyke Huizinga, Frank Ruis, Hugo Kuijf. International Conference on Computer Vision Theory and Applications (VISAPP) 2024.
+
 Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>. <a href="https://github.com/Dennishoftijzer/L-B_Augmentation">Code</a>.
 
 Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling. Leander Heuvel, Gertjan Burghouts, David Zhang, Gwenn Englebienne, Sabina van Rooij. NeurIPS workshop on Diffusion Models 2023. <a href="https://openreview.net/pdf?id=3R0lwIywZV">Paper</a>.
