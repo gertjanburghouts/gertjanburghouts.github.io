@@ -12,7 +12,7 @@ Synthesizing Classifiers from Prior Knowledge. Gertjan Burghouts, Klamer Schutte
 
 Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>. <a href="https://github.com/Dennishoftijzer/L-B_Augmentation">Code</a>.
 
-Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling. Leander Heuvel, Gertjan Burghouts, David Zhang, Gwenn Englebienne, Sabina van Rooij. NeurIPS workshop on Diffusion Models 2023. <a href="https://openreview.net/pdf?id=3R0lwIywZV">Paper</a>.
+Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling. Leander Heuvel, Gertjan Burghouts, David Zhang, Gwenn Englebienne, Sabina van Rooij. NeurIPS workshop on Diffusion Models 2023. <a href="https://arxiv.org/abs/2312.12000">Paper</a>.
 
 Data Augmentations in Deep Weight Spaces. Aviv Shamsian, David Zhang, Aviv Navon, Yan Zhang, Miltiadis Kofinas, Idan Achituve, Riccardo Valperga, Gertjan Burghouts, Efstratios Gavves, Cees Snoek, Ethan Fetaya, Gal Chechik, Haggai Maron. NeurIPS workshop NeurReps 2023. <a href="https://openreview.net/pdf?id=jdT7PuqdSt">Paper</a>.
 
