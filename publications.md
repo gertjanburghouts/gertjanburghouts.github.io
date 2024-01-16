@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Graph Neural Networks for Learning Equivariant Representations of Neural Networks. Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang. International Conference on Learning Representations (ICLR) 2024.
+
 Synthesizing Classifiers from Prior Knowledge. Gertjan Burghouts, Klamer Schutte, Maarten Kruithof, Wyke Huizinga, Frank Ruis, Hugo Kuijf. International Conference on Computer Vision Theory and Applications (VISAPP) 2024.
 
 Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>. <a href="https://github.com/Dennishoftijzer/L-B_Augmentation">Code</a>.
