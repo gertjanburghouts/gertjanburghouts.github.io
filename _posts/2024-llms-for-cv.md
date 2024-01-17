@@ -12,7 +12,7 @@ Even fine-grained properties such as specific patterns and colors.
 
 We exploited this and trained a model for animal classification without human labeling of these properties. 
 We just took the LLMs answers as groundtruth.  
-It works just as well as a human set of annotators after which a consensus was reached. 
+Interestingly, it works just as well as human annotation. 
 
 The research is done by Jona, our student, who is also going on an ELLIS exchange 
 with the University of Copenhagen with the renowned professor Serge Belongie. 
