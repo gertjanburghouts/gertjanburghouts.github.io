@@ -8,6 +8,10 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
+
+Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
+
 Graph Neural Networks for Learning Equivariant Representations of Neural Networks. Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang. International Conference on Learning Representations (ICLR) 2024. Oral (top 1.2%).
 
 Synthesizing Classifiers from Prior Knowledge. Gertjan Burghouts, Klamer Schutte, Maarten Kruithof, Wyke Huizinga, Frank Ruis, Hugo Kuijf. International Conference on Computer Vision Theory and Applications (VISAPP) 2024.
