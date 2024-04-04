@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Affordance Perception"
-date: 2023-12-08 09:00:00 -0000
+date: 2024-04-04 09:00:00 -0000
 categories: image classification zero shot prior knowledge
 excerpt_separator: <!--more-->
 ---
