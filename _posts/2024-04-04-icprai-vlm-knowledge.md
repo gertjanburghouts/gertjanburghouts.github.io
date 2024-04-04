@@ -25,4 +25,4 @@ The mix of affordance representation, image detection and a human-in-the-loop is
 for a robot to search for objects to achieve its goals. We have demonstrated this in a scenario of 
 finding various doors and the many different ways to open them.
 
-The paper was accepted at International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI). 
+The paper was accepted at International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI).
