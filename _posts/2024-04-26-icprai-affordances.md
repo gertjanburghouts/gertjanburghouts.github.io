@@ -11,13 +11,14 @@ They can look for new objects based on textual prompts, which often works surpri
 But, not always... 
 
 We investigated whether a VLM, GLIP, can be used to find doors and their openers. 
-It can do a pretty good job, but it's far from perfect. 
+It can do a pretty good job, but it's far from perfect (see the second image below). 
 
 <img src="https://gertjanburghouts.github.io/pictures/icprai_affordances.jpg">
 
 So, we let the robot do its best, to find as most as it can. 
 Next, we involve the user to correct the wrong predictions. 
-Finally, the model is retrained with the corrections. 
+Finally, the model is retrained with the corrections (see the third image above). 
+With a spatial reasoner - openers are close to the door - the predictions can be improved further (fourth image). 
 
 This is a very effective strategy. 
 The user only needs to label a few instances, i.e. the mistakes. 
