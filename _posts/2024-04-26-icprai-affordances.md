@@ -24,4 +24,3 @@ The user only needs to label a few instances, i.e. the mistakes.
 This is very efficient. 
 
 The paper was accepted at International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI).
- 
