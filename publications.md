@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024.
+
 Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
 
 Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
