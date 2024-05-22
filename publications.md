@@ -12,7 +12,7 @@ Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Te
 
 Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
 
-Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
+Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. Oral.
 
 Graph Neural Networks for Learning Equivariant Representations of Neural Networks. Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang. International Conference on Learning Representations (ICLR) 2024. Oral (top 1.2%).
 
