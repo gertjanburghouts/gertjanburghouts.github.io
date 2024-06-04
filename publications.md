@@ -16,7 +16,7 @@ Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Ge
 
 Graph Neural Networks for Learning Equivariant Representations of Neural Networks. Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang. International Conference on Learning Representations (ICLR) 2024. Oral (top 1.2%). <a href="https://arxiv.org/abs/2403.12143">Paper</a>.
 
-Synthesizing Classifiers from Prior Knowledge. Gertjan Burghouts, Klamer Schutte, Maarten Kruithof, Wyke Huizinga, Frank Ruis, Hugo Kuijf. International Conference on Computer Vision Theory and Applications (VISAPP) 2024.
+Synthesizing Classifiers from Prior Knowledge. Gertjan Burghouts, Klamer Schutte, Maarten Kruithof, Wyke Huizinga, Frank Ruis, Hugo Kuijf. International Conference on Computer Vision Theory and Applications (VISAPP) 2024. <a href="https://repository.tno.nl/SingleDoc?find=UID%20d7b9b352-1b06-47af-b606-e23b25861b05">Paper</a>.
 
 Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. IEEE Robotic Computation 2023. <a href="https://www.youtube.com/watch?v=sPQSdcJ1mik">Demo</a>. <a href="https://github.com/Dennishoftijzer/L-B_Augmentation">Code</a>.
 
@@ -24,15 +24,15 @@ Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling.
 
 Data Augmentations in Deep Weight Spaces. Aviv Shamsian, David Zhang, Aviv Navon, Yan Zhang, Miltiadis Kofinas, Idan Achituve, Riccardo Valperga, Gertjan Burghouts, Efstratios Gavves, Cees Snoek, Ethan Fetaya, Gal Chechik, Haggai Maron. NeurIPS workshop NeurReps 2023. <a href="https://openreview.net/pdf?id=jdT7PuqdSt">Paper</a>.
 
-Efficient Transfer by Robust Label Selection and Learning with Pseudo-Labels. Wyke Huizinga, Maarten Kruithof, Gertjan Burghouts, Klamer Schutte. IEEE ICIP 2023.
+Efficient Transfer by Robust Label Selection and Learning with Pseudo-Labels. Wyke Huizinga, Maarten Kruithof, Gertjan Burghouts, Klamer Schutte. IEEE ICIP 2023. <a href="https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=2769#top">Paper</a>.
 
-Aerial Image Segmentation with Minimal Annotation Effort Using Clustering of Pretrained Embeddings. Sabina B. van Rooij, Maarten C. Kruithof, Wyke Huizingaa, Gertjan J. Burghouts, Klamer Schutte. SPIE 2023.
+Aerial Image Segmentation with Minimal Annotation Effort Using Clustering of Pretrained Embeddings. Sabina B. van Rooij, Maarten C. Kruithof, Wyke Huizingaa, Gertjan J. Burghouts, Klamer Schutte. SPIE 2023. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12742/127420M/Aerial-image-segmentation-with-minimal-annotation-effort-using-clustering-of/10.1117/12.2688450.short">Paper</a>.
 
 Neural Networks Are Graphs! Graph Neural Networks for Equivariant Processing of Neural Networks. David W Zhang, Miltiadis Kofinas, Yan Zhang, Yunlu Chen, Gertjan J. Burghouts, Cees G. M. Snoek. ICML TAG workshop 2023. <a href="https://openreview.net/forum?id=sCkLwG9wjy">Paper</a>.
 
 Improved Zero-Shot Object Localization using Contextualized Prompts and Objects in Context. Gertjan J. Burghouts, Wouter Meijer, Fieke Hillerström, Jelle van Mil, Michael van Bekkum, Marianne Schaaphok, Frank Ruis. ICRA Pretraining for Robotics 2023. <a href="https://openreview.net/pdf?id=2vHLRXkpcS">Paper</a>.
 
-Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. ICML 2023. 
+Unlocking Slot Attention by Changing Optimal Transport Costs. Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek. ICML 2023. <a href="https://arxiv.org/abs/2301.13197">Paper</a> 
 
 Also appeared at: NeurIPS workshop on Neuro Causal and Symbolic AI (nCSI), and, NeurIPS workshop on Attention, 2023 (Oral). <a href="https://openreview.net/forum?id=27L6M45WI9">Paper</a>.
 
@@ -56,7 +56,7 @@ Independent Prototype Propagation for Zero-Shot Compositionality. F. Ruis, G.J. 
 
 Equidistant Hyperspherical Prototypes Improve Uncertainty Quantification. G.J. Burghouts, P. Mettes. NeurIPS, 2021, Workshop on Deployable Decision Making in Embodied Systems (DDM). <a href="https://drive.google.com/file/d/1ikyuTJbV7sFXpZVLgQR2uDcpFzk574X5/view?usp=sharing">Paper</a>.
 
-Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">https://arxiv.org/abs/2106.13919</a>, 2021.
+Recurrently Predicting Hypergraphs. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. <a href="https://arxiv.org/abs/2106.13919">Paper</a>, 2021.
 
 Set Prediction without Imposing Structure as Conditional Density Estimation. D.W. Zhang, G.J. Burghouts, C.G.M. Snoek. International Conference on Learning Representations (ICLR), 2021. <a href="https://arxiv.org/abs/2010.04109">Paper</a>.
 
