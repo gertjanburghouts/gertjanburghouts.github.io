@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robot Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024.
+
 Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024.
 
 Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
