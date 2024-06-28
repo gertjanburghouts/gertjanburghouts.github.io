@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. International Conference on Logic Programming 2024. 
+
 Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024.
 
 Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robot Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024.
