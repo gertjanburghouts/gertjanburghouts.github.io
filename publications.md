@@ -10,9 +10,11 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. International Conference on Logic Programming 2024. 
 
+Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024.
+
 Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024.
 
-Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robot Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024.
+Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robotics: Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024.
 
 Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classification. Jan Erik van Woerden, Gertjan J. Burghouts, Sabina B. van Rooij, Frank A. Ruis, Judith Dijk, Hugo J. Kuijf. SPIE 2024.
 
