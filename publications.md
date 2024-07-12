@@ -12,21 +12,21 @@ Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference a
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. International Conference on Robotics and Artificial Intelligence 2024.
 
-Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024.
+Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024. <a href="https://gertjanburghouts.github.io/_backup/RSS_2024_datagraphs.pdf">Paper</a>.
 
-Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024.
+Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024. <a href="https://gertjanburghouts.github.io/_backup/IJSC_2024_shortcut.pdf">Paper</a>.
 
-Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robotics: Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024.
+Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robotics: Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024. <a href="https://gertjanburghouts.github.io/_backup/RSS_2024_dialogue.pdf">Paper</a>.
 
 Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classification. Jan Erik van Woerden, Gertjan J. Burghouts, Sabina B. van Rooij, Frank A. Ruis, Judith Dijk, Hugo J. Kuijf. SPIE 2024.
 
 Zero-shot neuro-symbolic parsing of body keypoints. Dalia Aljawaheri, Gertjan J. Burghouts, Judith Dijk, Hugo J. Kuijf. SPIE 2024.
 
-Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024.
+Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024. <a href="https://gertjanburghouts.github.io/_backup/ICRA_2024_semantic_navigation.pdf">Paper</a>.
 
-Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024.
+Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. <a href="https://gertjanburghouts.github.io/_backup/ICPRAI_2024_affordances.pdf">Paper</a>.
 
-Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. Oral.
+Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. Oral. <a href="https://gertjanburghouts.github.io/_backup/ICPRAI_2024_neurosymbolic.pdf">Paper</a>.
 
 Graph Neural Networks for Learning Equivariant Representations of Neural Networks. Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang. International Conference on Learning Representations (ICLR) 2024. Oral (top 1.2%). <a href="https://arxiv.org/abs/2403.12143">Paper</a>.
 
