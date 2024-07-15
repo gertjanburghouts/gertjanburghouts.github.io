@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scaling 3D Reasoning"
-date: 2024-07-15 12:00:00 -0000
+date: 2024-07-15 06:00:00 -0000
 categories: large multimodal models reasoning environments robotics
 excerpt_separator: <!--more-->
 ---
