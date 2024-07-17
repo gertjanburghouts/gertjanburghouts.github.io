@@ -12,7 +12,7 @@ Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference a
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. International Conference on Robotics and Artificial Intelligence 2024.
 
-Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024. <a href="https://gertjanburghouts.github.io/pictures/RSS_2024_datagraphs.pdf">Paper</a>.
+Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>.
 
 Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024. <a href="https://gertjanburghouts.github.io/pictures/IJSC_2024_shortcut.pdf">Paper</a>.
 
