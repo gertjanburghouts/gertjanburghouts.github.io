@@ -22,11 +22,11 @@ Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classificat
 
 Zero-shot neuro-symbolic parsing of body keypoints. Dalia Aljawaheri, Gertjan J. Burghouts, Judith Dijk, Hugo J. Kuijf. SPIE 2024.
 
-Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024. <a href="https://gertjanburghouts.github.io/pictures/ICRA_2024_semantic_navigation.pdf">Paper</a>.
+Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024. <a href="http://arxiv.org/abs/2407.13392">Paper</a>.
 
-Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. <a href="https://gertjanburghouts.github.io/pictures/ICPRAI_2024_affordances.pdf">Paper</a>.
+Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction. Gertjan Burghouts, Marianne Schaaphok, Michael van Bekkum, Wouter Meijer, Fieke Hillerström, Jelle van Mil. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. <a href="https://arxiv.org/abs/2407.13368">Paper</a>.
 
-Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. Oral. <a href="https://gertjanburghouts.github.io/pictures/ICPRAI_2024_neurosymbolic.pdf">Paper</a>.
+Open-World Visual Reasoning by a Neuro-Symbolic Program of Zero-Shot Symbols. Gertjan Burghouts, Fieke Hillerström, Erwin Walraven, Michael van Bekkum, Frank Ruis, Joris Sijs, Jelle van Mil, Judith Dijk. International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI) 2024. Oral. <a href="http://arxiv.org/abs/2407.13382">Paper</a>.
 
 Graph Neural Networks for Learning Equivariant Representations of Neural Networks. Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang. International Conference on Learning Representations (ICLR) 2024. Oral (top 1.2%). <a href="https://arxiv.org/abs/2403.12143">Paper</a>.
 
