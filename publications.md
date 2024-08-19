@@ -8,7 +8,11 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. International Conference on Logic Programming 2024. 
+Guided SAM: Label-Efficient Part Segmentation. Sabina van Rooij, Gertjan Burghouts. International Conference on Pattern Recognition (ICPR) 2024.
+
+Anticipating Future Object Compositions without Forgetting. Youssef Zahran, Gertjan Burghouts, Yke Bauke Eisma. International Conference on Pattern Recognition (ICPR) 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>.
+
+Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. Theory and Practice of Logic Programming (TPLP) 2024. 
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. International Conference on Robotics and Artificial Intelligence 2024.
 
