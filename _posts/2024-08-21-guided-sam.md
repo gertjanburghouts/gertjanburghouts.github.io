@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guiding Segment-Anything Model (SAM)"
-date: 2024-09-01 06:00:00 -0000
+date: 2024-08-21 06:00:00 -0000
 categories: semantic segmentation transformer patches
 excerpt_separator: <!--more-->
 ---
