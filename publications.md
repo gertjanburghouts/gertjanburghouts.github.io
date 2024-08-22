@@ -12,7 +12,7 @@ Guided SAM: Label-Efficient Part Segmentation. Sabina van Rooij, Gertjan Burghou
 
 Anticipating Future Object Compositions without Forgetting. Youssef Zahran, Gertjan Burghouts, Yke Bauke Eisma. International Conference on Pattern Recognition (ICPR) 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>.
 
-Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. Theory and Practice of Logic Programming (TPLP) 2024. 
+Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. Theory and Practice of Logic Programming (TPLP) 2024. <a href="http://arxiv.org/abs/2408.11367">Paper</a>.
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. International Conference on Robotics and Artificial Intelligence 2024.
 
