@@ -19,6 +19,8 @@ sense principles into the perception and planning processes of robots to
 extend their artificial intelligence abilities, so that robots may solve 
 newly encountered situations autonomously.
 
+A collaboration with University of Amsterdam, TU Delft, Royal Marechaussee and TNO. 
+
 Today was the kickoff,
 
 <img src="https://gertjanburghouts.github.io/pictures/openbots_kickoff.jpg">
