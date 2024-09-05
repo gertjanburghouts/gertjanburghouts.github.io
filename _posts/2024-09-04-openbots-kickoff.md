@@ -25,4 +25,5 @@ Today was the kickoff,
 
 <img src="https://gertjanburghouts.github.io/pictures/openbots_kickoff.jpg">
 
-Sponsored by NWO Open Technology Programme, Royal Marechaussee and TNO. <a href="https://www.nwo.nl/en/projects/20442">Press release.</a>
+Sponsored by NWO Open Technology Programme, Royal Marechaussee and TNO. <a href="https://www.nwo.nl/en/projects/20442">Press release.</a> 
+<a href="https://www.tno.nl/nl/newsroom/2024/09/consortium-ontwikkelt-geavanceerde-ai/">News item.</a>
