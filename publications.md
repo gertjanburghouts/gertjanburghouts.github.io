@@ -10,7 +10,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Guided SAM: Label-Efficient Part Segmentation. Sabina van Rooij, Gertjan Burghouts. International Conference on Pattern Recognition (ICPR) 2024.
 
-Anticipating Future Object Compositions without Forgetting. Youssef Zahran, Gertjan Burghouts, Yke Bauke Eisma. International Conference on Pattern Recognition (ICPR) 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>.
+Anticipating Future Object Compositions without Forgetting. Youssef Zahran, Gertjan Burghouts, Yke Bauke Eisma. International Conference on Pattern Recognition (ICPR) 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>. <a href="https://github.com/Yzahran/GroundingDinoTrainEmbeddings">Code</a>.
 
 Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. Theory and Practice of Logic Programming (TPLP) 2024. <a href="http://arxiv.org/abs/2408.11367">Paper</a>.
 
