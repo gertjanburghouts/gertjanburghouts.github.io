@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zero-shot neuro-symbolic body parsing"
-date: 2024-10-07 06:00:00 -0000
+date: 2024-10-06 06:00:00 -0000
 categories: pose estimation classification neurosymbolic AI
 excerpt_separator: <!--more-->
 ---
