@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robot Learns on the Job"
-date: 2024-10-08 06:00:00 -0000
+date: 2024-10-08 04:00:00 -0000
 categories: robot learning
 excerpt_separator: <!--more-->
 ---
