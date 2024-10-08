@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 To interpret human behaviour from a single image, a cue is provided by the body pose. 
-However, for rare behaviours, such as aiming a weapon, not many training images are available, sometimes none. 
+However, for rare behaviours, not many training images are available, sometimes none. 
 We approach the problem in a zero-shot manner, without any training images. 
 We formulate logical patterns of body keypoints, which are interpreted by neurosymbolic AI. 
 
