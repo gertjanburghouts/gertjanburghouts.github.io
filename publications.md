@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Do better language models have crisper vision? Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano. Submitted, 2024. <a href="https://arxiv.org/abs/2410.07173">Paper</a>.
+
 Guided SAM: Label-Efficient Part Segmentation. Sabina van Rooij, Gertjan Burghouts. International Conference on Pattern Recognition (ICPR) 2024.
 
 Anticipating Future Object Compositions without Forgetting. Youssef Zahran, Gertjan Burghouts, Yke Bauke Eisma. International Conference on Pattern Recognition (ICPR) 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>. <a href="https://github.com/Yzahran/GroundingDinoTrainEmbeddings">Code</a>.
