@@ -21,3 +21,5 @@ Often there is explicit world knowledge about what has to be learned. To include
 With robots, one can do active perception: move to look better. With the rise of large AI models, we put CLIP on a robot. Robots typically learn shortcuts, which we mitigate by language-based augmentations, that are helpful for the vision to generalize better. For reasoning, we developed a dialogue between a language model (LLM) and a vision-language model (VLM). For instance, when encountering an obstacle, it decides to look for a metal box instead of any box, because a paper box is not strong enough to step on. During task planning, the robot may run into unknown settings, leading to errors. We devised a method to fix errors in a VLM efficiently on-the-job.
 
 More details about my research activities and projects can be found in the Blog posts and Publications.
+
+<img src="https://gertjanburghouts.github.io/pictures/college_cv_uva.jpg" width="80%">
