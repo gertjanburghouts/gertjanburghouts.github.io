@@ -20,6 +20,10 @@ Often there is explicit world knowledge about what has to be learned. To include
 
 With robots, one can do active perception: move to look better. With the rise of large AI models, we put CLIP on a robot. Robots typically learn shortcuts, which we mitigate by language-based augmentations, that are helpful for the vision to generalize better. For reasoning, we developed a dialogue between a language model (LLM) and a vision-language model (VLM). For instance, when encountering an obstacle, it decides to look for a metal box instead of any box, because a paper box is not strong enough to step on. During task planning, the robot may run into unknown settings, leading to errors. We devised a method to fix errors in a VLM efficiently on-the-job.
 
+**Incremental Learning, No Forgetting**
+
+In real life, the AI model will encounter new objects that it does not know yet. We study how models can be extended, without forgetting what they already know. One approach is via vision-language models where we extend the lexicon of tokens to accomodate the new classes. Another approach is via adding neurons to the model, i.e. extending the model weights by extra room for new classes or knowledge, like we did for Markov Logic Networks. Here an additional challenge is how to update knowledge when it conflicts or modifies earlier knowledge. 
+
 More details about my research activities and projects can be found in the Blog posts and Publications.
 
 <img src="https://gertjanburghouts.github.io/pictures/college_cv_uva.jpg" width="80%">
