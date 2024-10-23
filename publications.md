@@ -8,7 +8,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems 2024.
+Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS) 2024.
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. IEEE Robotic Computing (IEEE IRC) 2024.
 
