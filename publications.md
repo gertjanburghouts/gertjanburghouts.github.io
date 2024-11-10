@@ -28,7 +28,7 @@ Which objects help me to act effectively? Reasoning about physically-grounded af
 
 Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classification. Jan Erik van Woerden, Gertjan J. Burghouts, Sabina B. van Rooij, Frank A. Ruis, Judith Dijk, Hugo J. Kuijf. SPIE 2024.
 
-Zero-shot neuro-symbolic parsing of body keypoints. Dalia Aljawaheri, Gertjan J. Burghouts, Judith Dijk, Hugo J. Kuijf. SPIE 2024.
+Zero-shot neuro-symbolic parsing of body keypoints. Dalia Aljawaheri, Gertjan J. Burghouts, Judith Dijk, Hugo J. Kuijf. SPIE 2024. <a href="http://dx.doi.org/10.1117/12.3031487">Paper</a>.
 
 Lightweight Uncertainty Quantification with Simplex Semantic Segmentation for Terrain Traversability. Judith Dijk, Gertjan Burghouts, Kapil D. Katyal, Bryanna Y. Yeh, Craig T. Knuth, Ella Fokkinga, Tejaswi Kasarla, Pascal Mettes. ICRA Off-road Autonomy workshop 2024. <a href="http://arxiv.org/abs/2407.13392">Paper</a>.
 
