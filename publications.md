@@ -26,7 +26,9 @@ Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigat
 
 Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robotics: Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024. <a href="https://gertjanburghouts.github.io/pictures/RSS_2024_dialogue.pdf">Paper</a>.
 
-Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classification. Jan Erik van Woerden, Gertjan J. Burghouts, Sabina B. van Rooij, Frank A. Ruis, Judith Dijk, Hugo J. Kuijf. SPIE 2024. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13206/132060G/Visual-prompt-tuning-and-ensemble-undersampling-for-one-shot-vehicle/10.1117/12.3029517.short">Paper</a>.
+Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classification. Jan Erik van Woerden, Gertjan J. Burghouts, Sabina B. van Rooij, Frank A. Ruis, Judith Dijk, Hugo J. Kuijf. SPIE 2024. <a href="http://dx.doi.org/10.1117/12.3029517">Paper</a>.
+
+
 
 Zero-shot neuro-symbolic parsing of body keypoints. Dalia Aljawaheri, Gertjan J. Burghouts, Judith Dijk, Hugo J. Kuijf. SPIE 2024. <a href="http://dx.doi.org/10.1117/12.3031487">Paper</a>.
 
