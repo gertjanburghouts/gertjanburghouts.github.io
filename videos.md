@@ -4,6 +4,10 @@ title: Videos
 permalink: /videos/
 ---
 
+**Lifelong Learning**
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/Sm3qsgzqNu8" title="lifelong learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Robotics and Domain Invariance**
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/sPQSdcJ1mik" title="Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
