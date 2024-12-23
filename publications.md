@@ -16,7 +16,7 @@ Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Si
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. IEEE Robotic Computing (IEEE IRC) 2024. <a href="http://arxiv.org/abs/2410.17624">Paper</a>.
 
-Do better language models have crisper vision? Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano. Submitted, 2024. <a href="https://arxiv.org/abs/2410.07173">Paper</a>.
+Do better language models have crisper vision? Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano. Submitted, 2024. <a href="https://arxiv.org/abs/2410.07173">Paper</a>. <a href="https://jonaruthardt.github.io/project/ShareLock">Project</a>.
 
 Guided SAM: Label-Efficient Part Segmentation. Sabina van Rooij, Gertjan Burghouts. International Conference on Pattern Recognition (ICPR) 2024.
 
