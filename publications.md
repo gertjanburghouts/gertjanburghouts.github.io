@@ -10,7 +10,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning. Eric Brouwer, Matias Valdenegro-Toro,  Marco Zullich, Jan Erik van Woerden and Gertjan Burghouts. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2412.14640">Paper</a>.
  
-Self-Supervised Partial Cycle-Consistency for Multi-View Matching. Fedor Taggenbrock, Gertjan Burghouts and Ronald Poppe. International Conference on Computer Vision Theory and Applications (VISAPP) 2025.
+Self-Supervised Partial Cycle-Consistency for Multi-View Matching. Fedor Taggenbrock, Gertjan Burghouts and Ronald Poppe. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2501.06000">Paper</a>.
 
 Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS) 2024. <a href="https://link.springer.com/article/10.1007/s10458-024-09683-4">Paper</a>.
 
