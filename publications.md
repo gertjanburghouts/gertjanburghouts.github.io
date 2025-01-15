@@ -12,7 +12,7 @@ Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fin
  
 Self-Supervised Partial Cycle-Consistency for Multi-View Matching. Fedor Taggenbrock, Gertjan Burghouts and Ronald Poppe. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2501.06000">Paper</a>.
 
-Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS) 2024. <a href="https://link.springer.com/article/10.1007/s10458-024-09683-4">Paper</a>.
+Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS) 2024. <a href="https://link.springer.com/article/10.1007/s10458-024-09683-4">Paper</a>. <a href="https://github.com/erwinwalraven/active_inference">Code</a>.
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. IEEE Robotic Computing (IEEE IRC) 2024. <a href="http://arxiv.org/abs/2410.17624">Paper</a>.
 
