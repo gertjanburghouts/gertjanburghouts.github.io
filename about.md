@@ -20,6 +20,10 @@ We collaborate within the OpenBots Lab with the University of Amsterdam, TU Delf
 We pursue open-world AI models, that are not limited to closed sets of concepts. 
 Cees and me supervise two PhD researchers on Embodied Foundation Models. 
 
+With University of Amsterdam and Technical University of Eindhoven, we collaborate in FIND. 
+This NWO Perspectief program is about foundation models for industry. 
+There are many partners involved, it is led by Gijs Dubbelman.
+
 In EDF FaRADAI we study Frugal AI, learning to efficiently change domains and learning to learn new concepts without forgetting. 
 In the NWO Perspectief program FIND, we study foundation models, their adaptation, and uncertainty quantification. 
 
