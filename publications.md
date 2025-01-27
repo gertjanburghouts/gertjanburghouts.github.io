@@ -8,7 +8,7 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Near, far: Patch-ordering enhances vision foundation models' scene understanding. Valentinos Pariza, Mohammadreza Salehi, Gertjan J. Burghouts, Francesco Locatello, Yuki M Asano. International Conference on Learning Representations (ICLR) 2025. <a href="https://openreview.net/pdf?id=Qro97zWC29">Paper</a>.
+Near, far: Patch-ordering enhances vision foundation models' scene understanding. Valentinos Pariza, Mohammadreza Salehi, Gertjan J. Burghouts, Francesco Locatello, Yuki M Asano. International Conference on Learning Representations (ICLR) 2025. <a href="https://openreview.net/pdf?id=Qro97zWC29">Paper</a>. <a href="https://github.com/vpariza/NeCo">Code</a>. <a href="https://vpariza.github.io/NeCo">Project</a>.
 
 Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning. Eric Brouwer, Matias Valdenegro-Toro,  Marco Zullich, Jan Erik van Woerden and Gertjan Burghouts. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2412.14640">Paper</a>.
  
