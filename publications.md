@@ -26,7 +26,7 @@ Anticipating Future Object Compositions without Forgetting. Youssef Zahran, Gert
 
 Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation. Fieke Hillerstrom, Gertjan Burghouts. Theory and Practice of Logic Programming (TPLP) 2024. <a href="http://arxiv.org/abs/2408.11367">Paper</a>.
 
-Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024. <a href="https://arxiv.org/abs/2407.10723">Paper</a>.
+Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs. Wouter Meijer, Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Jelle van Mil. Robotics: Science and Systems. Workshop on Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction 2024. <a href="https://arxiv.org/abs/2407.10743">Paper</a>.
 
 Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024. <a href="https://gertjanburghouts.github.io/pictures/IJSC_2024_shortcut.pdf">Paper</a>.
 
