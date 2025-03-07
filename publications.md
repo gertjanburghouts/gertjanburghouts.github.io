@@ -50,7 +50,7 @@ Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigati
 
 Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling. Leander Heuvel, Gertjan Burghouts, David Zhang, Gwenn Englebienne, Sabina van Rooij. NeurIPS workshop on Diffusion Models 2023. <a href="https://arxiv.org/abs/2312.12000">Paper</a>.
 
-Data Augmentations in Deep Weight Spaces. Aviv Shamsian, David Zhang, Aviv Navon, Yan Zhang, Miltiadis Kofinas, Idan Achituve, Riccardo Valperga, Gertjan Burghouts, Efstratios Gavves, Cees Snoek, Ethan Fetaya, Gal Chechik, Haggai Maron. NeurIPS workshop NeurReps 2023. <a href="https://openreview.net/pdf?id=jdT7PuqdSt">Paper</a>.
+Data Augmentations in Deep Weight Spaces. Aviv Shamsian, David Zhang, Aviv Navon, Yan Zhang, Miltiadis Kofinas, Idan Achituve, Riccardo Valperga, Gertjan Burghouts, Efstratios Gavves, Cees Snoek, Ethan Fetaya, Gal Chechik, Haggai Maron. NeurIPS workshop NeurReps 2023. <a href="https://arxiv.org/abs/2311.08851">Paper</a>.
 
 Efficient Transfer by Robust Label Selection and Learning with Pseudo-Labels. Wyke Huizinga, Maarten Kruithof, Gertjan Burghouts, Klamer Schutte. IEEE ICIP 2023. <a href="https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=2769#top">Paper</a>.
 
