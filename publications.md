@@ -10,13 +10,13 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 Near, far: Patch-ordering enhances vision foundation models' scene understanding. Valentinos Pariza, Mohammadreza Salehi, Gertjan J. Burghouts, Francesco Locatello, Yuki M Asano. International Conference on Learning Representations (ICLR) 2025. <a href="https://openreview.net/pdf?id=Qro97zWC29">Paper</a>. <a href="https://github.com/vpariza/NeCo">Code</a>. <a href="https://vpariza.github.io/NeCo">Project</a>.
 
-Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning. Eric Brouwer, Matias Valdenegro-Toro,  Marco Zullich, Jan Erik van Woerden and Gertjan Burghouts. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2412.14640">Paper</a>.
+Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning. Eric Brouwer, Matias Valdenegro-Toro,  Marco Zullich, Jan Erik van Woerden and Gertjan Burghouts. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2412.14640">Paper</a> (Oral) (Best industrial paper award).
  
-Self-Supervised Partial Cycle-Consistency for Multi-View Matching. Fedor Taggenbrock, Gertjan Burghouts and Ronald Poppe. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2501.06000">Paper</a>.
+Self-Supervised Partial Cycle-Consistency for Multi-View Matching. Fedor Taggenbrock, Gertjan Burghouts and Ronald Poppe. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2501.06000">Paper</a> (Oral).
 
 Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS) 2024. <a href="https://link.springer.com/article/10.1007/s10458-024-09683-4">Paper</a>. <a href="https://github.com/erwinwalraven/active_inference">Code</a>.
 
-Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. IEEE Robotic Computing (IEEE IRC) 2024. <a href="http://arxiv.org/abs/2410.17624">Paper</a>.
+Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. IEEE Robotic Computing (IEEE IRC) 2024. <a href="http://arxiv.org/abs/2410.17624">Paper</a> (Oral).
 
 Do better language models have crisper vision? Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano. Submitted, 2024. <a href="https://arxiv.org/abs/2410.07173">Paper</a>. <a href="https://jonaruthardt.github.io/project/ShareLock">Project</a>.
 
