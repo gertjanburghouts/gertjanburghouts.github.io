@@ -30,7 +30,7 @@ Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagra
 
 Language-Based Augmentation to Mitigate Shortcut Learning in Object-Goal Navigation. Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers. International Journal of Semantic Computing 2024. <a href="https://gertjanburghouts.github.io/pictures/IJSC_2024_shortcut.pdf">Paper</a>.
 
-Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robotics: Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024. <a href="https://gertjanburghouts.github.io/pictures/RSS_2024_dialogue.pdf">Paper</a>.
+Which objects help me to act effectively? Reasoning about physically-grounded affordances. Anne Kemmeren, Gertjan Burghouts, Michael van Bekkum, Wouter Meijer, Jelle van Mil. Robotics: Science and Systems. Semantic Reasoning and Goal Understanding in Robotics 2024. <a href="https://arxiv.org/abs/2407.13811">Paper</a>.
 
 Visual Prompt Tuning and Ensemble Undersampling for One-Shot Vehicle Classification. Jan Erik van Woerden, Gertjan J. Burghouts, Sabina B. van Rooij, Frank A. Ruis, Judith Dijk, Hugo J. Kuijf. SPIE 2024. <a href="http://dx.doi.org/10.1117/12.3029517">Paper</a>.
 
