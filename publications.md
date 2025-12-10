@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Neurosymbolic Inference on Foundation Models for Remote Sensing Text-to-image Retrieval with Complex Queries. Emanuele Mezzi, Gertjan J. Burghouts, Maarten Kruithof. ACM Transactions on Spatial Algorithms and Systems (ACM TSAS) 2025. 
+
 Near, far: Patch-ordering enhances vision foundation models' scene understanding. Valentinos Pariza, Mohammadreza Salehi, Gertjan J. Burghouts, Francesco Locatello, Yuki M Asano. International Conference on Learning Representations (ICLR) 2025. <a href="https://arxiv.org/pdf/2408.11054">Paper</a>. <a href="https://github.com/vpariza/NeCo">Code</a>. <a href="https://vpariza.github.io/NeCo">Project</a>.
 
 Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning. Eric Brouwer, Matias Valdenegro-Toro,  Marco Zullich, Jan Erik van Woerden and Gertjan Burghouts. International Conference on Computer Vision Theory and Applications (VISAPP) 2025. <a href="https://arxiv.org/abs/2412.14640">Paper</a> (Oral) (Best industrial paper award).
