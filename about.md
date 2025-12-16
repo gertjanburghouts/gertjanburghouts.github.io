@@ -8,7 +8,7 @@ My name is Gertjan Burghouts. I am a researcher in deep learning and computer vi
 
 <img style="padding: 2%; float: right;" src="https://gertjanburghouts.github.io/Gertjan.jpg" width="20%">
 
-I am part of a great team at TNO: the Intelligent Imaging group. 
+I am part of a great team. 
 Our research is about image & video understanding and robotics. 
 My personal ambition is to enable learning with few labels, to leverage prior knowledge in the learning process. 
 Moreover, to put the models in practice: robots, forensic search and decision-making.
@@ -28,5 +28,3 @@ In EDF FaRADAI we study Frugal AI, learning to efficiently change domains and le
 In the NWO Perspectief program FIND, we study foundation models, their adaptation, and uncertainty quantification. 
 
 More details about my research can be found under Research.
-
-<img src="https://gertjanburghouts.github.io/pictures/intelligent_imaging_2023.jpg" width="80%">
