@@ -8,7 +8,9 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
-Neurosymbolic Inference on Foundation Models for Remote Sensing Text-to-image Retrieval with Complex Queries. Emanuele Mezzi, Gertjan J. Burghouts, Maarten Kruithof. ACM Transactions on Spatial Algorithms and Systems (ACM TSAS) 2025. 
+Better Language Models Exhibit Higher Visual Alignment. Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M Asano. Transactions on Machine Learning Research (TMLR) 2026. <a href="https://arxiv.org/pdf/2410.07173">Paper</a>. <a href="https://jonaruthardt.github.io/project/ShareLock/">Project</a>
+
+Neurosymbolic Inference on Foundation Models for Remote Sensing Text-to-image Retrieval with Complex Queries. Emanuele Mezzi, Gertjan J. Burghouts, Maarten Kruithof. ACM Transactions on Spatial Algorithms and Systems (ACM TSAS) 2026. <a href="https://arxiv.org/abs/2512.14102">Paper</a>.
 
 Near, far: Patch-ordering enhances vision foundation models' scene understanding. Valentinos Pariza, Mohammadreza Salehi, Gertjan J. Burghouts, Francesco Locatello, Yuki M Asano. International Conference on Learning Representations (ICLR) 2025. <a href="https://arxiv.org/pdf/2408.11054">Paper</a>. <a href="https://github.com/vpariza/NeCo">Code</a>. <a href="https://vpariza.github.io/NeCo">Project</a>.
 
@@ -19,8 +21,6 @@ Self-Supervised Partial Cycle-Consistency for Multi-View Matching. Fedor Taggenb
 Information Gathering in POMDPs using Active Inference. Erwin Walraven, Joris Sijs, Gertjan Burghouts. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS) 2024. <a href="https://link.springer.com/article/10.1007/s10458-024-09683-4">Paper</a>. <a href="https://github.com/erwinwalraven/active_inference">Code</a>.
 
 Incremental Learning of Affordances using Markov Logic Networks. George Potter, Gertjan Burghouts, Joris Sijs. IEEE Robotic Computing (IEEE IRC) 2024. <a href="http://arxiv.org/abs/2410.17624">Paper</a> (Oral).
-
-Do better language models have crisper vision? Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano. Submitted, 2024. <a href="https://arxiv.org/abs/2410.07173">Paper</a>. <a href="https://jonaruthardt.github.io/project/ShareLock">Project</a>.
 
 Guided SAM: Label-Efficient Part Segmentation. Sabina van Rooij, Gertjan Burghouts. International Conference on Pattern Recognition (ICPR) 2024. <a href="http://arxiv.org/abs/2501.07434">Paper</a>.
 
