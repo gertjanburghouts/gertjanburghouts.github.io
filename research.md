@@ -4,13 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-My research focuses on deep learning for situation understanding, embed AI models on robots, and to include logic and prior knowledge in the learning process.
+My research focuses on deep learning for video and situation understanding, robotics, and to include logic and prior knowledge in the learning process.
 
 <img style="padding: 2%; float: right;" src="https://gertjanburghouts.github.io/pictures/presenting.jpg" width="20%">
 
-**Adapting Foundation Models**
+**Actionable Foundation Models**
 
-Foundation models are a great promise. Due to their broad pretraining they have acquired a lot of knowledge about the visual and semantic world. Yet they often lack specialized concepts. We extend foundation models with new concepts, without forgetting (e.g. incremental learning with Grounding DINO). Moreover, we steer them to focus on the right parts of the image (e.g. Guided SAM).
+Foundation models are a great promise. Due to their broad pretraining they have acquired a lot of knowledge about the visual and semantic world. Yet they often lack specialized concepts. We extend foundation models with new concepts, without forgetting (e.g. incremental learning with Grounding DINO). Moreover, we steer them to focus on the right parts of the image (e.g. Guided SAM). Recently, we are exploring how to use them for robots taking actions, including VLA models. A next step is expected from World Models.
 
 **Understanding Situations**
 
