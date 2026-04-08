@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+OASIC: Occlusion-Agnostic and Severity-Informed Classification. Kay Gijzen, Gertjan J. Burghouts, Daniël M. Pelt. <a href="https://arxiv.org/abs/2604.04012">Paper</a>.
+
 Fantastic Tractor-Dogs and How Not to Find Them With Open-Vocabulary Detectors. Frank Ruis, Gertjan J. Burghouts, Hugo Kuijf. ICLR 2026. <a href="https://openreview.net/forum?id=jUuXNrG7wh">Paper</a>.
 
 Better Language Models Exhibit Higher Visual Alignment. Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M Asano. Transactions on Machine Learning Research (TMLR) 2026. <a href="https://arxiv.org/pdf/2410.07173">Paper</a>. <a href="https://jonaruthardt.github.io/project/ShareLock/">Project</a>.
