@@ -8,9 +8,11 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+LiFT: Loop Flow Transformers; Loop in Depth, Flow in Time. Mohammad Mahdi Derakhshani, Pedro M.P. Curvo, Gertjan J. Burghouts, Jan-Willem van de Meent, Cees G. M. Snoek. 2026. <a href="https://arxiv.org/pdf/2610.05538">Paper</a>
+
 EDMA: Entropy-Driven Multimodal Answering. Emanuele Mezzi, Gertjan Burghouts, Fabio Massacci, Mengyuan Zhang. NeurIPS 2026.
 
-OASIC: Occlusion-Agnostic and Severity-Informed Classification. Kay Gijzen, Gertjan J. Burghouts, Daniël M. Pelt. <a href="https://arxiv.org/abs/2604.04012">Paper</a>.
+OASIC: Occlusion-Agnostic and Severity-Informed Classification. Kay Gijzen, Gertjan J. Burghouts, Daniël M. Pelt. 2026. <a href="https://arxiv.org/abs/2604.04012">Paper</a>.
 
 Fantastic Tractor-Dogs and How Not to Find Them With Open-Vocabulary Detectors. Frank Ruis, Gertjan J. Burghouts, Hugo Kuijf. ICLR 2026. <a href="https://openreview.net/forum?id=jUuXNrG7wh">Paper</a>.
 
