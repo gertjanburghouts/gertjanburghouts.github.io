@@ -8,6 +8,8 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Your Transformer Is Secretly Elastic. Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts, Cees G.M. Snoek. 2026.
+
 LiFT: Loop Flow Transformers; Loop in Depth, Flow in Time. Mohammad Mahdi Derakhshani, Pedro M.P. Curvo, Gertjan J. Burghouts, Jan-Willem van de Meent, Cees G. M. Snoek. 2026. <a href="https://arxiv.org/pdf/2610.05538">Paper</a>. <a href="https://pedrocurvo-lift.hf.space">Demo</a>. 
 
 EDMA: Entropy-Driven Multimodal Answering. Emanuele Mezzi, Gertjan Burghouts, Fabio Massacci, Mengyuan Zhang. NeurIPS 2026.
