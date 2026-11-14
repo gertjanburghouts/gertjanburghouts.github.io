@@ -8,6 +8,10 @@ List of all publications is on my Google Scholar <a href="https://scholar.google
 
 **Recent publications**
 
+Language-guided Assistive Exploration of Reconstructed 3D Environments via Informative View Selection and Multi-view Reasoning. Michel van Lier, Gertjan J. Burghouts. International Conference on Pattern Recognition Methods and Applications (ICPRAM), 2027.
+
+Selecting Meaningful Images: The Importance of Global and Local Visual Cues in Embodied Question Answering. Bart Verhoef, Gertjan J. Burghouts, Ronald Poppe. International Conference on Computer Vision Theory and Applications (VISAPP), 2027.
+
 Your Transformer Is Secretly Elastic. Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts, Cees G.M. Snoek. 2026. <a href="https://arxiv.org/abs/2610.20588">Paper</a>. <a href="https://secretly-elastic.ashita.nl">Project</a>.
 
 LiFT: Loop Flow Transformers; Loop in Depth, Flow in Time. Mohammad Mahdi Derakhshani, Pedro M.P. Curvo, Gertjan J. Burghouts, Jan-Willem van de Meent, Cees G. M. Snoek. 2026. <a href="https://arxiv.org/pdf/2610.05538">Paper</a>. <a href="https://pedrocurvo-lift.hf.space">Demo</a>. <a href="https://www.alphaxiv.org/abs/2610.05538">Project</a>. <a href="https://www.turingpost.com/p/10-looped-transformer-papers">Featured</a>.
